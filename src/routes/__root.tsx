@@ -46,6 +46,12 @@ export const Route = createRootRoute({
       },
       { property: "og:type", content: "website" },
       { name: "twitter:card", content: "summary" },
+      { name: "twitter:title", content: "AulaTDAH — Herramienta para profesorado" },
+      { name: "description", content: "Maestro's Aid is a tool for secondary education Spanish teachers to identify ADHD symptoms and implement targeted interventions." },
+      { property: "og:description", content: "Maestro's Aid is a tool for secondary education Spanish teachers to identify ADHD symptoms and implement targeted interventions." },
+      { name: "twitter:description", content: "Maestro's Aid is a tool for secondary education Spanish teachers to identify ADHD symptoms and implement targeted interventions." },
+      { property: "og:image", content: "https://pub-bb2e103a32db4e198524a2e9ed8f35b4.r2.dev/b0e54b36-08e6-4db5-a164-e7251379307b/id-preview-4ab3d8bd--60fdd780-aa35-438b-a269-802174f6b7ee.lovable.app-1780321826516.png" },
+      { name: "twitter:image", content: "https://pub-bb2e103a32db4e198524a2e9ed8f35b4.r2.dev/b0e54b36-08e6-4db5-a164-e7251379307b/id-preview-4ab3d8bd--60fdd780-aa35-438b-a269-802174f6b7ee.lovable.app-1780321826516.png" },
     ],
     links: [
       {
